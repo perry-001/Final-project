@@ -133,7 +133,7 @@ nav ul li:hover {
 }
 
 .video-section {
-  background-image: url(images/video.png);
+  background-image: url(video.png);
   min-height: 800px;
   display: grid;
   place-items: center;
